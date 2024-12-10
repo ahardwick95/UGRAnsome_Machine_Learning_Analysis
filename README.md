@@ -1,4 +1,4 @@
-# UGRAnsome_Machine_Learning_Analysis
+# UGRansome_Machine_Learning_Analysis
 
 This repository contains an analysis of the UGRansome dataset using three different machine learning models. The project focuses on comparing the performance of these models based on standard evaluation metrics.
 
