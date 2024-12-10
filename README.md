@@ -11,7 +11,7 @@ Ransomware is a growing threat in cybersecurity. This project analyzes the UGRan
 
 The key steps in this project include:
 - **Data Preprocessing**: Checking the dataset for missing values, duplicates, and the types of data in the dataset.
-- **Exploratory Data Analysis **: Analyzing the dataset to understand the relationship between the features and target value.
+- **Exploratory Data Analysis**: Analyzing the dataset to understand the relationship between the features and target value.
 - **Model Training**: Training the models on the preprocessed dataset.
 - **Metrics Comparison**: Evaluating model performance using metrics such as accuracy, precision, recall, and F1-score and then comparing each model’s performance against the others.
 
