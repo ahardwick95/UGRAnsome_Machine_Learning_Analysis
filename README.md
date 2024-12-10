@@ -18,7 +18,7 @@ The key steps in this project include:
 ## Citation
 Dr. Mike Nkongolo Wa Nkongolo. (2023). UGRansome dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/7172543 (APA)
 
-## License for the Dataset from Original Authors
+## License
 CC BY-SA 4.0
 
 ## Future Work
