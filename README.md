@@ -1,5 +1,7 @@
 # UGRansome_Machine_Learning_Analysis
 
+The UGRansom dataset is a specialized dataset designed to aid in the evaluation of ransomware detection systems. It provides a diverse set of network traffic data reflecting realistic ransomware behaviors, enabling researchers and cybersecurity professionals to develop and test machine learning models for detecting ransomware attacks.
+
 This repository contains an analysis of the UGRansome dataset using three different machine learning models. The project focuses on comparing the performance of these models based on standard evaluation metrics.
 
 ## Project Overview
